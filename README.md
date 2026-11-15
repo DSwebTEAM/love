@@ -7,12 +7,13 @@
 Letters fly in and form a glowing heart around a name.<br>
 A single-screen animation with an edit menu, full-screen mode, keyboard shortcuts, touch gestures and ambient music.
 
-[![License: MIT](https://img.shields.io/github/license/DSwebTEAM/love)](LICENSE)
+
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)](https://vite.dev)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DSwebTEAM/love)
 
-[Live demo](https://dswebteam.github.io/love/) &nbsp;|&nbsp; [Report a bug](https://github.com/DSwebTEAM/love/issues)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://love-five-indol.vercel.app/)
+
+&nbsp; [Report a bug](https://github.com/DSwebTEAM/love/issues)
 
 </div>
 
