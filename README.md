@@ -7,7 +7,7 @@
 Letters fly in and form a glowing heart around a name.<br>
 A single-screen animation with an edit menu, full-screen mode, keyboard shortcuts, touch gestures and ambient music.
 
-[![Deploy](https://github.com/DSwebTEAM/love/actions/workflows/deploy.yml/badge.svg)](https://github.com/DSwebTEAM/love/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/DSwebTEAM/love/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/DSwebTEAM/love/actions/workflows/deploy.yml)
 [![Live demo](https://img.shields.io/badge/demo-live-ff2e63)](https://dswebteam.github.io/love/)
 [![License: MIT](https://img.shields.io/github/license/DSwebTEAM/love)](LICENSE)
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)](https://react.dev)
